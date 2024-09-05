@@ -9,7 +9,7 @@ const Projects = () => {
         <ProjectCard
           title="Portfolio"
           main="This is a portfolio website created in React and used some component library with Tailwind CSS."
-          sourceCodeUrl="https://github.com/yourusername/portfolio"  // Update with the actual GitHub URL
+          sourceCodeUrl="https://github.com/ManishSingh1230987/Portfolio_react.git"  // Update with the actual GitHub URL
         />
         <ProjectCard
           title="React Job Portal"
